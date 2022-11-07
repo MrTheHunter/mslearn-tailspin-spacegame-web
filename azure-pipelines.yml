@@ -13,7 +13,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  wwwrootDir: 'Tailspin.SpaceGame.web/wwwroot'
+  wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotNetSdkVersion: '6.x'
   
 steps:
